@@ -29,11 +29,6 @@ ENV/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# Project specific
-dataset/
-*.json
-*.csv
-*.csv.gz
 
 # IDE specific
 .vscode/
